@@ -1,5 +1,7 @@
 # guprecords - Global uptime records
 
+> **⚠️ DEPRECATED:** This project is no longer maintained. It has been rewritten in Go as [goprecords](https://codeberg.org/snonux/goprecords). Please use goprecords instead.
+
 `guprecords` is a Raku-based command-line program that generates uptime reports for hosts based on the input record files from `uptimed`. It allows you to create reports for different categories and metrics, and supports multiple output formats.
 
 ## Features
